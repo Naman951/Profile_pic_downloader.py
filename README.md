@@ -1,4 +1,4 @@
-# rofile_pic_downloader.py
+# Profile_pic_downloader.py
 
 # Instagram Profile Picture Downloader 📸
 
